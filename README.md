@@ -2,6 +2,10 @@
 
 ## 📑 Skills 
 
+### 🧑‍💻 Programming Languages
+
+### 🛠 Tools
+
 ## 📈 Profile Stats
 
 <!--
