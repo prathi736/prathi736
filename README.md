@@ -12,6 +12,7 @@
 ### 🛠 Tools
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,python)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Profile Stats
 
