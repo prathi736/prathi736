@@ -3,21 +3,28 @@
 ## 📑 Skills 
 
 ### 💻 Programming Languages
-![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,cpp,python,javascript,flutter,sql)
 
 
 ### 💾 Database
 
 ### 🛠 Tools
+![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![My Skills](https://skillicons.dev/icons?i=mysql,python)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Profile Stats
 
+
+## 📈 Profile Stats
 ![Pulkit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathi736&show_icons=true&theme=2077)
+
 ![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathi736&show_icons=true&theme=github_dark)
+
+![Pulkit](https://github-readme-stats.vercel.app/api/top-langs/?username=prathi736&theme=react)
+
+
+## 📲 My Socials
 
 
 <!--
