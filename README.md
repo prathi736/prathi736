@@ -2,6 +2,8 @@
 
 # Hi Everyone 👋
 
+## 📲 Connect with Me
+
 ## 📑 Skills 
 
 ### 💻 Programming Languages
@@ -38,7 +40,7 @@
 <!--![Pulkit](https://github-readme-stats.vercel.app/api/top-langs/?username=prathi736&theme=react)-->
 
 
-## 📲 My Socials
+
 
 
 <!--
