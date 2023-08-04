@@ -1,3 +1,5 @@
+![pulkitHeader](https://github.com/prathi736/prathi736/blob/main/banner%20content/ENTHUSIASTIC%20LEARNER.gif)
+
 # Hi Everyone 👋
 
 ## 📑 Skills 
@@ -5,8 +7,6 @@
 ### 💻 Programming Languages
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,cpp,python,javascript,flutter,sql)
 
-
-### 💾 Database
 
 ### 🛠 Tools
 ![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -16,12 +16,26 @@
 
 
 
-## 📈 Profile Stats
-![Pulkit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathi736&show_icons=true&theme=2077)
+## 📈 Github Profile Stats
+<!-- ![Pulkit](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathi736&show_icons=true&theme=2077) -->
 
-![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathi736&show_icons=true&theme=github_dark)
+<p align="center">
+  <a href="https://github.com/prathi736/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=prathi736&show_icons=true&theme=github_dark"/>
+  </a>
+</p>
 
-![Pulkit](https://github-readme-stats.vercel.app/api/top-langs/?username=prathi736&theme=react)
+<!--![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathi736&show_icons=true&theme=github_dark)-->
+
+
+## 🧑‍💻 Mostly Used Languages 
+
+<p align="center">
+  <a href="https://github.com/prathi736/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi736&theme=github_dark"/>
+  </a>
+</p>
+<!--![Pulkit](https://github-readme-stats.vercel.app/api/top-langs/?username=prathi736&theme=react)-->
 
 
 ## 📲 My Socials
