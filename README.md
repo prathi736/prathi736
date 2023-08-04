@@ -8,6 +8,8 @@
 
 ### 💻 Programming Languages
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,cpp,python,javascript,flutter,sql)
+![Static Badge](https://img.shields.io/badge/Python-logo?style=for-the-badge&logo=python&labelColor=%23FEDD00&color=%23FEDD00)
+
 
 
 ### 🛠 Tools
