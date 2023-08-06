@@ -64,7 +64,7 @@
 <!--![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathi736&show_icons=true&theme=github_dark)-->
 
 
-## 🧑‍💻 Mostly Used Languages 
+## 🧑‍💻 Languages Used Mostly 
 
 <p align="center">
   <a href="https://github.com/prathi736/github-readme-stats">
