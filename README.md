@@ -1,6 +1,12 @@
 ![pulkitHeader](https://github.com/prathi736/prathi736/blob/main/banner%20content/ENTHUSIASTIC%20LEARNER.gif)
 
-# Hi Everyone 👋
+# Hi Everybody 👋
+
+- 😎 My name is **Pulkit Rathi**.
+- 🧑‍🎓 I always want to be a **student in my whole life**.
+- 🔭 I’m currently working on **React** and **Python**.
+- 🎯 Strengths: **Focused**, **Adaptable** and **Optimistic Guy** in tough situations.
+- 🤘 My hobbies are to **📘 read books**, **🎵 listening to music** and **playing 🎮 video games and 🏏 cricket**.
 
 ## 📲 Connect with Me
 
